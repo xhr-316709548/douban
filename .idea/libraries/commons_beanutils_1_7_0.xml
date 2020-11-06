@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-collections-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-httpclient-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/ezmorph-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/jaxb-core-2.3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/jaxb-impl-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/json-lib-2.2.3-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/json-lib-2.3-jdk13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/libs/taglibs-standard-spec-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
